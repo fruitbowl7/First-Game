@@ -11,8 +11,14 @@ public class Buttons : MonoBehaviour
     SceneManager.LoadScene(currentSceneIndex + 1);
    }
 
-   public void Pumkin()
+   public void LoadStartScene()
     {
         SceneManager.LoadScene(0);
     }
+   
+   public void QuitGame()
+   {
+    Application.Quit();
+   }
+
 }
