@@ -439,7 +439,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Hey human! We really need your help right know. Walter the worm needs get
-    food for him and his family. He will needs 1 pumpkin, 2 carrots, and 3 tomatoes.
+    food for his family and him. He will needs 1 pumpkin, 2 carrots, and 3 tomatoes.
     Will you help?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bd24d2726c4d8014a8d41de9dbd68488, type: 2}
