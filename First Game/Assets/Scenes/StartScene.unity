@@ -438,9 +438,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Hey human! We really need your help right know. Walter the worm needs get
-    food for his family and him. He will needs 1 pumpkin, 2 carrots, and 3 tomatoes.
-    Will you help?
+  m_text: Hey there! We really need your help, walter needs to feed his family but
+    is haveing trouble finding food. Could you help him?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bd24d2726c4d8014a8d41de9dbd68488, type: 2}
   m_sharedMaterial: {fileID: 4148491375339232632, guid: bd24d2726c4d8014a8d41de9dbd68488, type: 2}
@@ -993,7 +992,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.87843144, g: 0.87843144, b: 0.87843144, a: 0}
+  m_BackGroundColor: {r: 0.87843144, g: 0.87843144, b: 0.87843144, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
