@@ -265,9 +265,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Thank you for helping! Walter need to get 3 carrots, 1 pumkin, and a bush
-    of tomatoes which would have 3 tomatoes on it. Also dont mind walter he likes
-    to spin alot. '
+  m_text: 'Thank you for helping! Walter needs to get 3 carrots, 1 pumkin, and a
+    bush of tomatoes which would have 3 tomatoes on it. Also dont mind walter he
+    likes to spin alot. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bd24d2726c4d8014a8d41de9dbd68488, type: 2}
   m_sharedMaterial: {fileID: 4148491375339232632, guid: bd24d2726c4d8014a8d41de9dbd68488, type: 2}

@@ -42,12 +42,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: ground
-    uniqueID: 313156865
+  - name: blocking blocks
+    uniqueID: 256934227
+    locked: 0
+  - name: extra backroung
+    uniqueID: 1233219863
     locked: 0
   - name: background
     uniqueID: 2397485005
     locked: 0
+  - name: ground
+    uniqueID: 313156865
+    locked: 0
   - name: plants
     uniqueID: 2899381053
+    locked: 0
+  - name: player
+    uniqueID: 202718963
     locked: 0
