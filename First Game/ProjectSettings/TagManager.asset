@@ -42,6 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: plants to get
+    uniqueID: 3271520883
+    locked: 0
   - name: blocking blocks
     uniqueID: 256934227
     locked: 0
